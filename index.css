@@ -10,12 +10,16 @@ h1 {
     color: goldenrod;
 }
 
+#game-info-el {
+    font-style: italic;
+}
+
 p {
     font-weight: 800;
 }
 
 button {
-    color: #177817;
+    color: #1d681d;
     background: goldenrod;
     border: 0px solid transparent;
     border-radius: 2px;
