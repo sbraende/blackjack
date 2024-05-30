@@ -1,0 +1,26 @@
+body {
+    background-image: url("/assets/images/table.png");
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+p {
+    font-weight: 800;
+}
+
+button {
+    color: #177817;
+    background: goldenrod;
+    border: 0px solid transparent;
+    border-radius: 2px;
+    padding: 5px 20px;
+    font-weight: 900;
+    font-size: 14px;
+}
+
